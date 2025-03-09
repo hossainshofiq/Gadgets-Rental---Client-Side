@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Project setup completed using Vite React ReactRouter and TailwindCSS."
+git branch -M main
+git remote add origin https://github.com/MZahidKamal/Gadgets-Rental---Client-Side.git
+git push -u origin main
