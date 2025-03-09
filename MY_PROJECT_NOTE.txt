@@ -1,6 +1,23 @@
+// Primary set of commands for initializing the git repository.---------------------------------------------------------
+
 git init
 git add .
 git commit -m "Project setup completed using Vite React ReactRouter and TailwindCSS."
 git branch -M main
 git remote add origin https://github.com/MZahidKamal/Gadgets-Rental---Client-Side.git
 git push -u origin main
+
+// Commands to push code from now on.-----------------------------------------------------------------------------------
+
+git add .
+git commit -m "COMMIT MESSAGE."
+git push
+
+------------------------------------------------------------------------------------------------------------------------
+[git branch]                            To know the current branch.
+[git branch -M newName]                 To rename the current branch.
+[git remote -v]                         To get the original url where the git will be pushed and be fetched from.
+[git branch newBranchName]              To create a new branch.
+[git checkout newBranchName]            To check out from current branch and enter into newBranchName.
+[git branch -d newBranchName]           To delete the newBranchName. Make sure you are not currently in this branch.
+[git checkout -b newBranchName02]       To check out from current branch, create a new branch and enter into that new branch.

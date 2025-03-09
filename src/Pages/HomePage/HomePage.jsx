@@ -5,6 +5,8 @@ import ProductsComponent from "../../Components/ProductsComponent/ProductsCompon
 const HomePage = () => {
     return (
         <div>
+            HomePage
+            [This is HomePage text written for git newBranch.]
             <BannerComponent></BannerComponent>
             <ProductsComponent></ProductsComponent>
         </div>
