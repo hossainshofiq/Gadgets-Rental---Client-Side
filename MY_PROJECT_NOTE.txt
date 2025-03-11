@@ -36,7 +36,12 @@ Open the project in your VSCode.
 Run the command [npm install] to install all the packages according to the package.json file.
 Run the project. Hopefully everything will be perfect.
 Now open the terminal.
-[git checkout -b newFeatureNameAsBranchName]       To check out from current branch, create a new branch and enter into that new branch.
+[git checkout -b newFeatureNameAsBranchName] To check out from current branch, create a new branch and enter into that new branch.
+Write necessary code to implement the feature.
+[git add .] To add the new code into the git push pipeline.
+[git commit -m "Commit text"] To add the commit text about the added new code.
+[git push origin newFeatureNameAsBranchName] To push the new code into the repository, which you have forked into your GitHub account.
+
 
 
 
