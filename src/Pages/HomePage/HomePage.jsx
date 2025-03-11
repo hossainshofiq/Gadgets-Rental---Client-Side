@@ -4,7 +4,7 @@ import ProductsComponent from "../../Components/ProductsComponent/ProductsCompon
 
 const HomePage = () => {
     return (
-        <div>
+        <div className='bg-sky-400'>
             HomePage
             [This is HomePage text written for git newBranch.]
             [This is HomePage text written for git newBranch.]
