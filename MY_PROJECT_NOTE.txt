@@ -31,15 +31,18 @@ Visit this project repository [https://github.com/MZahidKamal/Gadgets-Rental---C
 Click 'Fork' just above the About section.
 Keep everything same, and then click 'Create fork' button in the bottom right corner.
 Now you will see a copy of this project into your own GitHub profile.
+
 Clone the repository, using the HTTPS web URL, into your local folder.
 Open the project in your VSCode.
 Run the command [npm install] to install all the packages according to the package.json file.
 Run the project. Hopefully everything will be perfect.
+
 Now open the terminal.
 [git checkout -b newFeatureNameAsBranchName] To check out from current branch, create a new branch and enter into that new branch.
 Write necessary code to implement the feature.
+
 [git add .] To add the new code into the git push pipeline.
-[git commit -m "Commit text"] To add the commit text about the added new code.
+[git commit -am "Commit text"] To add the commit text about the added new code, into the new branch, of the repository which .
 [git push origin newFeatureNameAsBranchName] To push the new code into the repository, which you have forked into your GitHub account.
 
 
