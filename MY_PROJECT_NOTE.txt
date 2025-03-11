@@ -45,6 +45,8 @@ Write necessary code to implement the feature.
 [git commit -am "Commit text"] To add the commit text about the added new code, into the new branch, of the repository which .
 [git push origin newFeatureNameAsBranchName] To push the new code into the repository, which you have forked into your GitHub account.
 
+Now got to your forked repository,
+
 
 
 
