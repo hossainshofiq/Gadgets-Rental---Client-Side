@@ -7,6 +7,9 @@ const HomePage = () => {
         <div>
             HomePage
             [This is HomePage text written for git newBranch.]
+            [This is HomePage text written for git newBranch.]
+            [This is HomePage text written for git newBranch.]
+            [This is HomePage text written for git newBranch.]
             <BannerComponent></BannerComponent>
             <ProductsComponent></ProductsComponent>
         </div>
