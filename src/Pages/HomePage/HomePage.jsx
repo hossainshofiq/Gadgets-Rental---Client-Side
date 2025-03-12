@@ -4,12 +4,7 @@ import ProductsComponent from "../../Components/ProductsComponent/ProductsCompon
 
 const HomePage = () => {
     return (
-        <div className='bg-sky-400'>
-            HomePage
-            [This is HomePage text written for git newBranch.]
-            [This is HomePage text written for git newBranch.]
-            [This is HomePage text written for git newBranch.]
-            [This is HomePage text written for git newBranch.]
+        <div className='bg-base-200 my-10'>
             <BannerComponent></BannerComponent>
             <ProductsComponent></ProductsComponent>
         </div>
